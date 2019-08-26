@@ -1,0 +1,122 @@
+label{
+    font-size: 10px;
+}
+h6{
+    font-size: 10px;
+}
+.c{
+    color: red;
+}
+
+body{
+    background: rgb(243, 239, 239);
+}
+.btnB{
+    padding: .8em 1.8em;
+    border-spacing: 5px;
+    text-decoration: none;
+    border: 2.1px solid aliceblue;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    background: #aaa6a6;
+    border-radius: 5px;
+    color: #000000;
+    font-size: 10px;
+    
+    }
+    .btnB1{
+        padding: .8em .8em .8em .8em;
+        border-spacing: 5px;
+        text-decoration: none;
+        border: 2.1px solid aliceblue;
+        display: inline-block;
+        transition: all 0.2s ease-in-out;
+        background: #6abff0;
+        border-radius: 5px;
+        color: #b10000;
+        font-size: 10px;
+        
+        }
+        .btnB2{
+            padding: .8em .8em .8em .8em;
+            border-spacing: 5px;
+            text-decoration: none;
+            border: 2.1px solid aliceblue;
+            display: inline-block;
+            
+            transition: all 0.2s ease-in-out;
+            background: #aaa6a6;
+            border-radius: 5px;
+            color: #b10000;
+            font-size: 10px;
+            
+            }
+    .btnB3{
+        padding: .8em .8em .8em .8em;
+        border-spacing: 5px;
+        text-decoration: none;
+        border: 2.1px solid rgb(215, 216, 218);
+        display: inline-block;
+     
+        transition: all 0.2s ease-in-out;
+        border-radius: 5px;
+        background: #f5efef;
+        color: #b10000;
+        font-size: 10px;
+        
+        }
+        .btnp{
+            padding: .8em .8em .8em .8em;
+            border-spacing: 5px;
+            text-decoration: none;
+            border: 2.1px solid rgb(215, 216, 218);
+            display: inline-block;
+         
+            transition: all 0.2s ease-in-out;
+            border-radius: 5px;
+        
+            color: #b10000;
+            font-size: 10px;
+            
+            }
+
+            .btnp1{
+                padding: .8em 1.8em;
+                border-spacing: 5px;
+                text-decoration: none;
+                border: 0;
+                display: inline-block;
+             
+                transition: all 0.2s ease-in-out;
+                border-radius: 5px;
+            
+                color: #b10000;
+                font-size: 10px;
+                
+                }
+
+
+           .btnBb{
+        padding: .8em 1.8em;
+        border-spacing: 5px;
+        text-decoration: none;
+        border: 1px solid rgb(31, 30, 30);
+        display: inline-block;
+        cursor: pointer;
+        transition: all 0.2s ease-in-out;
+        border-radius: 5px;
+        color: #b10000;
+        font-size: 10px;
+        
+        }
+
+    .col-s-s{
+        width: 15px;
+    }
+    .col-m-s{
+        width: 15px;
+    }
+    .col-l-s{
+        width: 15px;
+    }

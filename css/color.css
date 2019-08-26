@@ -1,0 +1,31 @@
+/*colores de fondo*/
+.bg--primary{
+  background: #007bdf;
+}
+.bg--secundary{
+ background: #fba905;
+}
+.bg--alert{
+    background: #ff3c32;
+}
+.bg--third{
+    background-color: #B0E0E6;
+}
+
+/*Color para letras*/
+.color--primary {
+    color: #007bdf;
+}
+.color--secundary {
+    color: #fba905;
+}
+
+.color--alert {
+    color: #ff3c32;
+}
+.color--black {
+    color: #3333;
+}
+.color--white {
+    color: #fff;
+}

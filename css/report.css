@@ -1,0 +1,57 @@
+@media print {
+	#DivControlesReport {
+		display:none;
+	}
+}
+
+p {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+
+a {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+a:hover {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: tomato;
+}
+
+table {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table td, th {
+	border: 1px solid #BBB;
+	padding: 8px;
+}
+
+
+table th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #DDD;
+	color: black;
+}
+
+h3 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	color: black;
+	font-weight: bolder;
+	text-align: center;
+}
+
+h4 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: black;
+	font-weight: bolder;
+	text-align: center;
+}

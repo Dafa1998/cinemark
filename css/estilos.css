@@ -1,0 +1,136 @@
+p {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.btnBuscar {
+	width: 15%;
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+.btnBuscar:hover, #btnOk:hover {
+	background-color: #45A049;
+	transition: 0.5s;
+}
+
+.input {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	display: inline-block;
+	border: 1px solid #BBB;
+	border-radius: 4px;
+	box-sizing: border-box; 
+}
+
+.btnOk {
+	width: 30%;
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+.btnNo {
+	width: 30%;
+	background-color: tomato;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+.btnNo:hover {
+	background-color: indianred;
+	transition: 0.5s;
+}
+
+.btnImp {
+	width: 30%;
+	background-color: steelblue;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+.btnImp:hover {
+	background-color: midnightblue;
+	transition: 0.5s;
+}
+
+a {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+a:hover {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #4CAF50;
+}
+
+table {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table td, th {
+	border: 1px solid #BBB;
+	padding: 8px;
+}
+
+table tr:nth-child(even){
+	background-color: #F2F2F2;
+}
+
+table tr:hover {
+	background-color: #BBB;
+}
+
+table th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: rgb(64, 47, 124);
+	color: white;
+}
+
+#txtBuscar {
+	width: 20%;
+	padding: 14px 20px;
+	margin: 8px 0px;
+	display: inline-block;
+	border: 1px solid #CCC;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+#DivFondoForms {
+	border-radius: 5px;
+	background-color: #F2F2F2;
+	padding: 20px;
+}
+
+h3 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	/*color: tomato;*/
+	font-weight: bolder;
+}
